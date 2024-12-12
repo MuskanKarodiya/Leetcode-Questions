@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0075-sort-colors) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0412-fizz-buzz) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
