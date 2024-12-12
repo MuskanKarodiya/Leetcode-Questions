@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1791-richest-customer-wealth) |
 ## Divide and Conquer
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0268-missing-number) |
 ## Concurrency
 |  |
 | ------- |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## String
@@ -48,8 +51,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1791-richest-customer-wealth) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
