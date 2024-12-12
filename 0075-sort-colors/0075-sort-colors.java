@@ -10,7 +10,7 @@ class Solution {
                 start++;
             }else if(nums[curr]==1){
                     curr++;
-            }else if(nums[curr]==2){
+            }else{
                 swap(nums,curr,end);
                 end--;
             }
