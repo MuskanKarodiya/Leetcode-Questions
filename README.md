@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0268-missing-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
