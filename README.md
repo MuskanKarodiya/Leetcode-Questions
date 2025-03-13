@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
 ## Counting
 |  |
 | ------- |
@@ -136,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
