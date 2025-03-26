@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0056-merge-intervals) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0493-reverse-pairs) |
