@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0229-majority-element-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0237-delete-node-in-a-linked-list) |
