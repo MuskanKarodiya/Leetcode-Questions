@@ -42,7 +42,7 @@ class Solution {
     public ListNode middleNode(ListNode head) {
         ListNode slow = head;
         ListNode fast = head;
-        ListNode prev = null;  // To track the node before the middle
+        ListNode prev = null; 
         
         while (fast != null && fast.next != null) {
             prev = slow;
@@ -50,6 +50,6 @@ class Solution {
             fast = fast.next.next;
         }
         
-        return prev;  // Return the node before the middle
+        return prev;  
     }
 }
