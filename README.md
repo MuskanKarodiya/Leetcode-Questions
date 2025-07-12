@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0232-implement-queue-using-stacks](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
 ## Design
