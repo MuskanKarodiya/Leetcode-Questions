@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0232-implement-queue-using-stacks](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
@@ -188,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
