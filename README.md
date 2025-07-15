@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [0886-score-of-parentheses](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Simulation
 |  |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0682-baseball-game) |
 | [0886-score-of-parentheses](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Design
 |  |
