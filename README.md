@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0268-missing-number) |
+| [0463-island-perimeter](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0463-island-perimeter) |
 | [0493-reverse-pairs](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0682-baseball-game) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
+| [0463-island-perimeter](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0463-island-perimeter) |
 | [1791-richest-customer-wealth](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1791-richest-customer-wealth) |
 ## Binary Search
 |  |
@@ -217,4 +219,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
