@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0463-island-perimeter](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0463-island-perimeter) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0062-unique-paths) |
+| [0189-rotate-array](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0412-fizz-buzz) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0202-happy-number) |
 | [0908-middle-of-the-linked-list](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
