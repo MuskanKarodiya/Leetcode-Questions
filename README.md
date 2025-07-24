@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0682-baseball-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1791-richest-customer-wealth) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Simulation
 |  |
 | ------- |
