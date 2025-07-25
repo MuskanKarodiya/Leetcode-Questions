@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0412-fizz-buzz](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [0468-validate-ip-address](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0468-validate-ip-address) |
 | [0886-score-of-parentheses](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0886-score-of-parentheses) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
@@ -240,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1908-recyclable-and-low-fat-products) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
