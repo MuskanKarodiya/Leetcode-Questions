@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1791-richest-customer-wealth) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0493-reverse-pairs) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Merge Sort
 |  |
 | ------- |
@@ -248,4 +250,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Prefix Sum
+|  |
+| ------- |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 <!---LeetCode Topics End-->
