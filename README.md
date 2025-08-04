@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0268-missing-number) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Concurrency
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0412-fizz-buzz) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0468-validate-ip-address](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0468-validate-ip-address) |
 | [0886-score-of-parentheses](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Linked List
 |  |
 | ------- |
