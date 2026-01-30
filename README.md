@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0584-find-customer-referee) |
+| [1757-recyclable-and-low-fat-products](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1908-recyclable-and-low-fat-products](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1908-recyclable-and-low-fat-products) |
 ## String Matching
 |  |
