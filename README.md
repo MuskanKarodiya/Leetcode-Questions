@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 ## Counting
 |  |
 | ------- |
@@ -305,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
