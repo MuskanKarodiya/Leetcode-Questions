@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0682-baseball-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1791-richest-customer-wealth) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## String
 |  |
 | ------- |
@@ -299,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
