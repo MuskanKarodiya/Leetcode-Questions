@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0509-fibonacci-number) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0268-missing-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0509-fibonacci-number) |
 ## Counting
 |  |
