@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0075-sort-colors) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0231-power-of-two) |
