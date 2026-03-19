@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0682-baseball-game) |
+| [0896-monotonic-array](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0896-monotonic-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1791-richest-customer-wealth) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
