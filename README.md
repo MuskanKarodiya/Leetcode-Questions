@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0268-missing-number) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0268-missing-number) |
