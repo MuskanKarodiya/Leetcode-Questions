@@ -9,7 +9,7 @@ class Solution {
         }
         if (r==-1) return "";
         int l=0;
-        while(l<r && num.charAt(l)==0){
+        while(l<r && num.charAt(l)=='0'){
             l++;
         }
     
