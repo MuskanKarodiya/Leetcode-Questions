@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0242-valid-anagram) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0412-fizz-buzz) |
