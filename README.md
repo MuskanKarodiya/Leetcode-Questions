@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0468-validate-ip-address](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0468-validate-ip-address) |
+| [0796-rotate-string](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0796-rotate-string) |
 | [0886-score-of-parentheses](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0796-rotate-string) |
 ## Enumeration
 |  |
 | ------- |
