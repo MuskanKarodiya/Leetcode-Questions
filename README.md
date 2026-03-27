@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0796-rotate-string) |
 | [0886-score-of-parentheses](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1903-largest-odd-number-in-string) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0682-baseball-game) |
 | [0886-score-of-parentheses](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Design
