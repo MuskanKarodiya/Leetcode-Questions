@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0496-next-greater-element-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Concurrency
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0468-validate-ip-address](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0468-validate-ip-address) |
 | [0796-rotate-string](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0796-rotate-string) |
 | [0886-score-of-parentheses](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0886-score-of-parentheses) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 ## Matrix
 |  |
 | ------- |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -349,4 +353,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
