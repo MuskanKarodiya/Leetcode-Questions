@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1791-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/1903-largest-odd-number-in-string) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/MuskanKarodiya/Leetcode-Questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Depth-First Search
 |  |
